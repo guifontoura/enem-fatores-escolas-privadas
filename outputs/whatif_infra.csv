@@ -1,0 +1,6 @@
+nome_escola,cidade,uf,indice_infra,enem_media_2anos,previsto_cv,residuo_cv,ganho_estimado_+2_infra,ic95_inf,ic95_sup
+COL VITAL BRASIL,Niterói,RJ,2.0,501.54,631.94,-130.4,8.15,6.35,9.95
+PAULICEIA COLEGIO,São Paulo,SP,2.0,498.87,615.71,-116.84,8.15,6.35,9.95
+COLEGIO OBJETIVA RAMILI,Alagoinhas,BA,2.0,472.3,571.19,-98.89,8.15,6.35,9.95
+COLEGIO PINHEIRO GUIMARAES LTDA,Rio de Janeiro,RJ,2.0,536.87,626.71,-89.84,8.15,6.35,9.95
+EXTERNATO PINHEIRO LTDA,Rio de Janeiro,RJ,2.0,509.1,596.64,-87.54,8.15,6.35,9.95

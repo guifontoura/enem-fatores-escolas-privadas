@@ -1,0 +1,5 @@
+variavel,coef_padronizado,p_valor,coef_bruto_pontos,ic95_inf,ic95_sup,importancia_permutacao_rf
+Renda do responsável,0.2753,0.0,0.0058,0.0052,0.0064,0.1929
+Porte (log matrículas),0.2448,0.0,16.326,14.3373,18.3148,0.1565
+Exame de seleção,0.1337,0.0,14.7388,11.5735,17.9041,0.0376
+Infraestrutura,0.1246,0.0,4.075,3.1753,4.9747,0.0501
