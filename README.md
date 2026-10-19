@@ -106,7 +106,7 @@ python src/01_preparar_dados.py <caminho_da_pasta_do_poliedro>
 
 ## Dashboard
 
-Painel no Looker Studio com quatro páginas, cada gráfico acompanhado de um "como ler":
+Painel no Looker Studio com quatro páginas, cada gráfico acompanhado de uma explicação em linguagem simples:
 
 1. **Panorama:** nota no ENEM por infraestrutura, renda do bairro, porte e seleção de alunos.
 2. **O que pesa mais:** peso e efeito de cada fator, comparação dos modelos.
