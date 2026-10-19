@@ -6,7 +6,7 @@ Projeto de Parceria EBAC/Semantix (Programa Analista de Dados). Pergunta central
 
 Renda das famílias e porte da escola pesam mais que infraestrutura. Dois níveis a mais de infraestrutura se associam a cerca de +8 pontos de ENEM (IC 95%: 6 a 10), contra 45 pontos de desvio-padrão entre escolas. O modelo explica ~23% da variação (R² validado fora da amostra).
 
-**Painel (Looker Studio, 4 páginas):** [abrir o relatório](https://datastudio.google.com/reporting/d6297567-7624-41e2-858f-d8776f9d9713)
+**Painel (Looker Studio, 4 páginas):** [abrir o relatório](https://datastudio.google.com/reporting/d6297567-7624-41e2-858f-d8776f9d9713) (os gráficos exigem login em uma conta Google; versão em PDF: [docs/painel_looker_studio.pdf](docs/painel_looker_studio.pdf))
 
 Leia o [relatório de insights](relatorios/RELATORIO_INSIGHTS.md) para as conclusões e o [notebook](notebooks/01_eda_modelagem.ipynb) para a análise completa.
 
