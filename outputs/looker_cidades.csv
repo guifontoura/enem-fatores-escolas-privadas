@@ -1,0 +1,312 @@
+cidade,uf,regiao,escolas_cidade,enem_cidade,escolas_bairro_alto,alunos_enem_ano,renda_bairro_alto,enem_bairro_alto,bairros,maior_escola,maior_escola_alunos_em,maior_escola_enem,dif_enem,bairro_renda_alta,escolas_privadas_em,matriculas_privadas_em,pessoas_renda_alta,populacao_total,jovens_15_17,regiao_imediata_id,regiao_imediata,pct_renda_alta,cobertura_privada,faixa_cidade,perfil_cidade,cobertura_esperada,dif_cobertura,vagas_vs_esperado,cobertura_vs_esperado,prioridade
+Ji-Paraná,RO,Norte,2,591.3,,,,,,,,,,Não,4,327.0,6893.0,124333,5715,110004,Ji-Paraná,5.5,5.7,1. Até 150 mil hab.,Polo,7.8,-2.1,-118.8,Dentro do esperado,-
+Porto Velho,RO,Norte,12,592.3,3.0,77.5,5000.0,594.0,"Olaria, São João Bosco",Colegio Sapiens - Unidade Jardim America,125.0,596.5,1.7,Sim,13,1945.0,36405.0,460434,21427,110001,Porto Velho,7.9,9.1,3. 300 mil a 1 milhão,Polo,10.3,-1.2,-262.8,Dentro do esperado,-
+Rio Branco,AC,Norte,9,608.0,,,,,,,,,,Não,10,1390.0,30772.0,364756,18402,120001,Rio Branco,8.4,7.6,3. 300 mil a 1 milhão,Polo,10.9,-3.3,-609.4,Dentro do esperado,-
+Itacoatiara,AM,Norte,1,590.8,,,,,,,,,,Não,1,132.0,1864.0,103598,6423,130011,Itacoatiara,1.8,2.1,1. Até 150 mil hab.,Polo,3.8,-1.8,-114.2,Dentro do esperado,-
+Manacapuru,AM,Norte,1,538.1,,,,,,,,,,Não,1,34.0,1515.0,101883,6578,130004,Manacapuru,1.5,0.5,1. Até 150 mil hab.,Polo,3.5,-3.0,-196.4,Dentro do esperado,-
+Manaus,AM,Norte,46,581.5,20.0,909.0,3750.0,600.3,"Centro, Adrianópolis",Centro Educacional La Salle,553.0,601.3,18.9,Sim,63,8230.0,132056.0,2063689,100320,130001,Manaus,6.4,8.2,4. Mais de 1 milhão,Polo,8.7,-0.5,-504.6,Dentro do esperado,-
+Boa Vista,RR,Norte,6,589.2,1.0,13.5,7000.0,565.6,Cacari,Colegio Cathedral,103.0,565.6,-23.6,Sim,6,763.0,32005.0,413486,20513,140001,Boa Vista,7.7,3.7,3. 300 mil a 1 milhão,Polo,10.1,-6.4,-1314.5,Abaixo do esperado,-
+Abaetetuba,PA,Norte,4,595.9,,,,,,,,,,Não,5,566.0,2677.0,158188,8336,150003,Abaetetuba,1.7,6.8,2. 150 a 300 mil,Polo,3.7,3.1,255.9,Dentro do esperado,-
+Altamira,PA,Norte,4,599.4,,,,,,,,,,Não,5,365.0,6163.0,126279,6448,150018,Altamira,4.9,5.7,1. Até 150 mil hab.,Polo,7.1,-1.4,-92.7,Dentro do esperado,-
+Ananindeua,PA,Norte,21,582.2,,,,,,,,,,Não,25,2885.0,23150.0,478778,21592,150001,Belém,4.8,13.4,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Barcarena,PA,Norte,5,572.9,2.0,62.0,1500.0,576.7,Não informado,Esc Dom Angelo Frozi Sc Ltda,135.0,577.4,3.9,Sim,8,573.0,3543.0,126650,6969,150001,Belém,2.8,8.2,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Belém,PA,Norte,64,596.5,28.0,1787.5,6000.0,614.8,"Marco, Nazaré",Colegio Marista Nossa Senhora de Nazare,604.0,658.2,18.3,Sim,82,11574.0,129622.0,1303403,54664,150001,Belém,9.9,21.2,4. Mais de 1 milhão,Polo,12.5,8.7,4761.1,Acima do esperado,-
+Bragança,PA,Norte,3,571.6,,,,,,,,,,Não,3,298.0,2750.0,123082,7150,150005,Bragança,2.2,4.2,1. Até 150 mil hab.,Polo,4.3,-0.1,-9.1,Dentro do esperado,-
+Cametá,PA,Norte,2,608.4,,,,,,,,,,Não,2,296.0,1614.0,134184,8312,150002,Cametá,1.2,3.6,1. Até 150 mil hab.,Polo,3.2,0.4,29.9,Dentro do esperado,-
+Castanhal,PA,Norte,11,595.2,,,,,,,,,,Não,12,1491.0,6866.0,192256,9536,150004,Castanhal,3.6,15.6,2. 150 a 300 mil,Polo,5.7,9.9,946.4,Acima do esperado,-
+Itaituba,PA,Norte,2,648.0,,,,,,,,,,Não,3,344.0,3777.0,123314,6461,150016,Itaituba,3.1,5.3,1. Até 150 mil hab.,Polo,5.2,0.2,9.8,Dentro do esperado,-
+Marabá,PA,Norte,8,616.2,,,,,,,,,,Não,12,914.0,10631.0,266533,14747,150009,Marabá,4.0,6.2,2. 150 a 300 mil,Polo,6.2,0.0,6.6,Dentro do esperado,-
+Marituba,PA,Norte,1,536.0,,,,,,,,,,Não,1,86.0,1751.0,111785,5705,150001,Belém,1.6,1.5,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Paragominas,PA,Norte,3,569.1,,,,,,,,,,Não,6,586.0,2682.0,105550,6087,150007,Paragominas,2.5,9.6,1. Até 150 mil hab.,Polo,4.6,5.0,304.8,Acima do esperado,-
+Parauapebas,PA,Norte,4,593.4,,,,,,,,,,Não,9,1043.0,15377.0,267836,14289,150010,Parauapebas,5.7,7.3,2. 150 a 300 mil,Polo,8.0,-0.7,-101.5,Dentro do esperado,-
+Santarém,PA,Norte,6,603.2,1.0,88.0,2400.0,608.0,Santa Clara,Colegio Santa Clara,301.0,608.0,4.8,Sim,6,940.0,12800.0,331942,18462,150015,Santarém,3.9,5.1,3. 300 mil a 1 milhão,Polo,6.0,-0.9,-170.1,Dentro do esperado,-
+Macapá,AP,Norte,15,591.0,4.0,88.5,3500.0,574.0,"Central, Cabralzinho",Colegio Santa Bartolomea Capitanio,97.0,614.1,-16.9,Sim,17,1740.0,32157.0,442933,23011,160001,Macapá,7.3,7.6,3. 300 mil a 1 milhão,Polo,9.6,-2.1,-473.4,Dentro do esperado,-
+Santana,AP,Norte,3,577.1,,,,,,,,,,Não,4,394.0,3768.0,107618,6049,160001,Macapá,3.5,6.5,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Araguaína,TO,Norte,3,605.2,,,,,,,,,,Não,6,609.0,11401.0,171301,8348,170005,Araguaína,6.7,7.3,2. 150 a 300 mil,Polo,9.0,-1.7,-140.5,Dentro do esperado,-
+Palmas,TO,Norte,14,614.6,,,,,,,,,,Não,17,2263.0,46447.0,302692,14016,170001,Palmas,15.3,16.1,3. 300 mil a 1 milhão,Polo,18.2,-2.0,-285.6,Dentro do esperado,-
+Açailândia,MA,Nordeste,3,582.7,,,,,,,,,,Não,6,336.0,2873.0,106550,5968,210021,Açailândia,2.7,5.6,1. Até 150 mil hab.,Polo,10.4,-4.8,-284.9,Abaixo do esperado,-
+Bacabal,MA,Nordeste,2,548.3,,,,,,,,,,Não,2,296.0,2652.0,103711,5776,210010,Bacabal,2.6,5.1,1. Até 150 mil hab.,Polo,10.3,-5.1,-296.4,Abaixo do esperado,-
+Balsas,MA,Nordeste,4,606.4,,,,,,,,,,Não,7,713.0,4408.0,101767,5739,210022,Balsas,4.3,12.4,1. Até 150 mil hab.,Polo,12.1,0.3,16.5,Dentro do esperado,-
+Caxias,MA,Nordeste,4,586.9,,,,,,,,,,Não,4,360.0,3678.0,156973,8771,210013,Caxias,2.3,4.1,2. 150 a 300 mil,Polo,10.0,-5.9,-519.7,Abaixo do esperado,-
+Codó,MA,Nordeste,2,571.6,,,,,,,,,,Não,2,147.0,1481.0,114275,6728,210015,Codó,1.3,2.2,1. Até 150 mil hab.,Polo,8.9,-6.7,-453.2,Abaixo do esperado,-
+Imperatriz,MA,Nordeste,10,604.5,,,,,,,,,,Não,16,1530.0,15480.0,273110,13009,210019,Imperatriz,5.7,11.8,2. 150 a 300 mil,Polo,13.6,-1.8,-233.1,Dentro do esperado,-
+Paço do Lumiar,MA,Nordeste,2,548.1,,,,,,,,,,Não,3,253.0,4261.0,145643,6632,210001,São Luís,2.9,3.8,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+São José de Ribamar,MA,Nordeste,4,599.1,,,,,,,,,,Não,5,801.0,10565.0,244579,11286,210001,São Luís,4.3,7.1,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+São Luís,MA,Nordeste,45,592.9,,,,,,,,,,Não,59,6308.0,91986.0,1037775,44052,210001,São Luís,8.9,14.3,4. Mais de 1 milhão,Polo,16.9,-2.6,-1153.6,Dentro do esperado,-
+Timon,MA,Nordeste,4,559.3,,,,,,,,,,Não,6,216.0,4305.0,174465,8377,210014,Timon,2.5,2.6,2. 150 a 300 mil,Polo,10.2,-7.6,-635.3,Abaixo do esperado,-
+Parnaíba,PI,Nordeste,10,605.4,,,,,,,,,,Não,13,1346.0,7120.0,162159,7291,220006,Parnaíba,4.4,18.5,2. 150 a 300 mil,Polo,12.2,6.3,456.5,Acima do esperado,-
+Teresina,PI,Nordeste,51,628.8,13.0,525.0,12000.0,662.0,"Jóquei, São Cristóvão",Sao Jose Leste,675.0,764.9,33.3,Sim,62,8833.0,76956.0,866300,36610,220001,Teresina,8.9,24.1,3. 300 mil a 1 milhão,Polo,17.0,7.2,2624.4,Acima do esperado,-
+Caucaia,CE,Nordeste,5,557.9,1.0,38.5,1500.0,558.1,Centro,Colegio Janusa Correa,181.0,558.1,0.2,Sim,5,521.0,7976.0,355679,15410,230001,Fortaleza,2.2,3.4,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Crato,CE,Nordeste,4,615.3,,,,,,,,,,Não,5,581.0,5611.0,131050,5815,230011,Juazeiro do Norte,4.3,10.0,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Fortaleza,CE,Nordeste,109,599.8,43.0,2744.5,3500.0,620.2,"Aldeota, Centro",Ari de Sa Cavalcante - Aldeota,658.0,724.6,20.4,Sim,143,18722.0,242612.0,2428708,97123,230001,Fortaleza,10.0,19.3,4. Mais de 1 milhão,Polo,18.1,1.1,1113.1,Dentro do esperado,-
+Itapipoca,CE,Nordeste,1,626.3,,,,,,,,,,Não,2,68.0,1662.0,131123,6781,230002,Itapipoca,1.3,1.0,1. Até 150 mil hab.,Polo,8.9,-7.9,-534.9,Abaixo do esperado,-
+Juazeiro do Norte,CE,Nordeste,6,623.7,2.0,38.5,1500.0,606.1,"Centro, Novo Juazeiro",Colegio Exito do Cariri Ss Ltda,59.0,626.9,-17.6,Sim,10,1241.0,9546.0,286120,12801,230011,Juazeiro do Norte,3.3,9.7,2. 150 a 300 mil,Polo,11.1,-1.4,-177.7,Dentro do esperado,-
+Maracanaú,CE,Nordeste,4,572.2,,,,,,,,,,Não,5,357.0,3777.0,234509,10108,230001,Fortaleza,1.6,3.5,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Maranguape,CE,Nordeste,4,565.2,,,,,,,,,,Não,4,311.0,1469.0,105093,4613,230001,Fortaleza,1.4,6.7,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Sobral,CE,Nordeste,5,612.3,,,,,,,,,,Não,6,1232.0,6777.0,203023,8733,230015,Sobral,3.3,14.1,2. 150 a 300 mil,Polo,11.1,3.0,264.0,Dentro do esperado,-
+Parnamirim,RN,Nordeste,13,601.0,,,,,,,,,,Não,17,2130.0,32043.0,252716,10030,240001,Natal,12.7,21.2,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Mossoró,RN,Nordeste,13,604.2,6.0,288.5,1949.2,597.3,"Doze Anos, Planalto Treze De Maio",Instituto Educacional Sementes,545.0,589.6,-6.9,Sim,15,2324.0,18419.0,264577,10852,240009,Mossoró,7.0,21.4,2. 150 a 300 mil,Polo,14.9,6.5,704.5,Acima do esperado,-
+Natal,RN,Nordeste,47,611.7,21.0,1063.0,5200.0,651.1,"Lagoa Nova, Capim Macio",Colegio Marista de Natal,564.0,693.2,39.4,Sim,56,6990.0,98708.0,751300,29314,240001,Natal,13.1,23.8,3. 300 mil a 1 milhão,Polo,21.5,2.4,697.3,Dentro do esperado,-
+Campina Grande,PB,Nordeste,19,616.4,6.0,226.0,2250.0,623.4,"Cruzeiro, Jardim Tavares",Colegio Nossa Senhora de Lourdes,324.0,679.9,7.0,Sim,24,3172.0,28546.0,419379,17099,250005,Campina Grande,6.8,18.6,3. 300 mil a 1 milhão,Polo,14.8,3.8,648.4,Acima do esperado,-
+João Pessoa,PB,Nordeste,52,604.4,25.0,1361.5,6000.0,632.5,"Aeroclube, Miramar",Centro Pessoense de Educacao - Colegio Motiva,1186.0,698.5,28.2,Sim,67,9223.0,104552.0,833932,32903,250001,João Pessoa,12.5,28.0,3. 300 mil a 1 milhão,Polo,20.8,7.2,2369.4,Acima do esperado,-
+Patos,PB,Nordeste,5,605.2,,,,,,,,,,Não,7,746.0,4630.0,103165,4521,250009,Patos,4.5,16.5,1. Até 150 mil hab.,Polo,12.3,4.2,189.8,Acima do esperado,-
+Santa Rita,PB,Nordeste,6,536.6,2.0,47.5,1475.0,548.9,Centro,Centro Educacional Santa Terezinha,97.0,560.9,12.3,Sim,8,524.0,1308.0,149910,6593,250001,João Pessoa,0.9,7.9,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Cabo de Santo Agostinho,PE,Nordeste,4,575.1,,,,,,,,,,Não,6,490.0,4630.0,203440,8934,260001,Recife,2.3,5.5,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Camaragibe,PE,Nordeste,7,572.4,1.0,11.0,4000.0,628.2,Aldeia Dos Camarás,Eccoprime Escola de Ensino Infantil e Fundamental,48.0,628.2,55.9,Sim,8,487.0,5688.0,147771,6005,260001,Recife,3.8,8.1,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Caruaru,PE,Nordeste,10,593.4,4.0,291.5,3000.0,610.5,"Mauricio De Nassau, Maurício De Nassau",Colegio Adventista de Caruaru,493.0,585.8,17.1,Sim,16,2219.0,18402.0,378048,16517,260009,Caruaru,4.9,13.4,3. 300 mil a 1 milhão,Polo,12.7,0.7,120.6,Dentro do esperado,-
+Garanhuns,PE,Nordeste,4,591.2,,,,,,,,,,Não,4,917.0,6658.0,142506,6537,260010,Garanhuns,4.7,14.0,1. Até 150 mil hab.,Polo,12.5,1.5,100.0,Dentro do esperado,-
+Igarassu,PE,Nordeste,2,564.5,,,,,,,,,,Não,3,341.0,2320.0,115196,5080,260001,Recife,2.0,6.7,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Jaboatão dos Guararapes,PE,Nordeste,20,567.0,10.0,396.0,2800.0,588.8,"Candeias, Piedade",Colegio Zuleide Constantino,196.0,558.4,21.8,Sim,26,2769.0,30461.0,644037,27096,260001,Recife,4.7,10.2,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Olinda,PE,Nordeste,12,579.0,4.0,250.0,5125.0,603.4,"Bairro Novo, Casa Caiada",Colegio Imaculado Coracao de Maria,322.0,604.9,24.4,Sim,16,2004.0,23505.0,349976,13879,260001,Recife,6.7,14.4,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Paulista,PE,Nordeste,13,555.4,5.0,101.0,2000.0,549.9,Janga,Escola Virgem Imaculada,128.0,588.8,-5.5,Sim,16,1615.0,14887.0,342167,13335,260001,Recife,4.4,12.1,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Petrolina,PE,Nordeste,8,608.8,3.0,292.5,3500.0,637.1,"Centro, Cidade Universitaria",Plenus Colegio e Curso,431.0,671.7,28.4,Sim,10,1897.0,22795.0,386791,18897,260015,Petrolina,5.9,10.0,3. 300 mil a 1 milhão,Polo,13.8,-3.8,-709.1,Abaixo do esperado,-
+Recife,PE,Nordeste,73,607.6,36.0,2160.0,7000.0,638.7,"Boa Viagem, Boa Vista",Colegio Gge,586.0,666.4,31.1,Sim,91,13305.0,241742.0,1488920,55907,260001,Recife,16.2,23.8,4. Mais de 1 milhão,Polo,24.7,-0.9,-531.0,Dentro do esperado,-
+São Lourenço da Mata,PE,Nordeste,2,536.8,,,,,,,,,,Não,3,192.0,2205.0,111249,4723,260001,Recife,2.0,4.1,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Vitória de Santo Antão,PE,Nordeste,7,581.1,,,,,,,,,,Não,8,1184.0,3498.0,134084,5920,260005,Vitória de Santo Antão,2.6,20.0,1. Até 150 mil hab.,Polo,10.3,9.7,573.5,Acima do esperado,-
+Arapiraca,AL,Nordeste,15,594.1,6.0,209.5,2460.0,589.5,"Eldorado, Baixa Grande",Alternativa Escola de Educacao Basica,199.0,666.0,-4.7,Sim,20,1904.0,9395.0,234696,11023,270007,Arapiraca,4.0,17.3,2. 150 a 300 mil,Polo,11.8,5.5,604.5,Acima do esperado,-
+Maceió,AL,Nordeste,60,570.7,28.0,1400.5,4000.0,593.3,"Gruta De Lourdes, Farol",Colegio Santa Madalena Sofia,551.0,649.3,22.6,Sim,78,8672.0,91116.0,957916,41142,270001,Maceió,9.5,21.1,3. 300 mil a 1 milhão,Polo,17.6,3.5,1420.8,Acima do esperado,-
+Aracaju,SE,Nordeste,40,607.9,17.0,766.5,5500.0,629.6,"Grageru, Jardins",Centro de Excelencia Master,691.0,700.4,21.7,Sim,57,6306.0,88673.0,602757,24184,280001,Aracaju,14.7,26.1,3. 300 mil a 1 milhão,Polo,23.1,2.9,711.5,Dentro do esperado,-
+Itabaiana,SE,Nordeste,6,635.4,,,,,,,,,,Não,7,885.0,3431.0,103440,4776,280004,Itabaiana,3.3,18.5,1. Até 150 mil hab.,Polo,11.1,7.5,356.7,Acima do esperado,-
+Lagarto,SE,Nordeste,1,619.3,,,,,,,,,,Não,1,128.0,2479.0,101579,4681,280005,Lagarto,2.4,2.7,1. Até 150 mil hab.,Polo,10.1,-7.4,-346.3,Abaixo do esperado,-
+Nossa Senhora do Socorro,SE,Nordeste,4,587.4,,,,,,,,,,Não,6,380.0,2104.0,192330,9497,280001,Aracaju,1.1,4.0,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Alagoinhas,BA,Nordeste,7,581.2,,,,,,,,,,Não,11,1072.0,6458.0,151055,6212,290002,Alagoinhas,4.3,17.3,2. 150 a 300 mil,Polo,12.1,5.2,321.8,Acima do esperado,-
+Barreiras,BA,Nordeste,5,640.7,,,,,,,,,,Não,5,627.0,9387.0,159734,7619,290018,Barreiras,5.9,8.2,2. 150 a 300 mil,Polo,13.8,-5.5,-422.4,Abaixo do esperado,-
+Camaçari,BA,Nordeste,8,592.6,,,,,,,,,,Não,16,932.0,14615.0,300372,12984,290001,Salvador,4.9,7.2,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Eunápolis,BA,Nordeste,4,606.1,,,,,,,,,,Não,4,543.0,5863.0,113710,5311,290009,Eunápolis - Porto Seguro,5.2,10.2,1. Até 150 mil hab.,Polo,13.0,-2.8,-148.0,Dentro do esperado,-
+Feira de Santana,BA,Nordeste,18,609.7,7.0,395.0,2000.0,635.1,"Ponto Central, Cidade Nova",Colegio Anisio Teixeira,516.0,585.9,25.4,Sim,26,3396.0,31247.0,616272,25404,290029,Feira de Santana,5.1,13.4,3. 300 mil a 1 milhão,Polo,12.9,0.4,114.0,Dentro do esperado,-
+Ilhéus,BA,Nordeste,6,597.2,2.0,90.5,6000.0,611.2,Cidade Nova,Colegio Sao Jorge dos Ilheus,259.0,642.4,14.0,Sim,8,838.0,10685.0,178649,7834,290007,Ilhéus ¿ Itabuna,6.0,10.7,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Itabuna,BA,Nordeste,7,612.4,1.0,24.0,5000.0,650.0,Zildolandia,Colegio Ieprol,83.0,650.0,37.6,Sim,9,1303.0,10790.0,186708,7631,290007,Ilhéus ¿ Itabuna,5.8,17.1,2. 150 a 300 mil,Polo,13.7,3.4,259.8,Acima do esperado,-
+Jequié,BA,Nordeste,4,622.4,,,,,,,,,,Não,5,487.0,5212.0,158813,7114,290012,Jequié,3.3,6.8,2. 150 a 300 mil,Polo,11.0,-4.2,-297.3,Abaixo do esperado,-
+Juazeiro,BA,Nordeste,3,587.4,,,,,,,,,,Não,4,615.0,9480.0,237821,11653,290022,Juazeiro,4.0,5.3,2. 150 a 300 mil,Polo,11.8,-6.5,-756.7,Abaixo do esperado,-
+Lauro de Freitas,BA,Nordeste,8,611.2,3.0,246.5,6500.0,636.6,"Buraquinho, Vilas Do Atlantico",Sartre Escola Seb - Monet,680.0,682.2,25.5,Sim,11,1932.0,26244.0,203331,7980,290001,Salvador,12.9,24.2,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Luís Eduardo Magalhães,BA,Nordeste,4,605.0,,,,,,,,,,Não,5,559.0,9067.0,107909,5203,290018,Barreiras,8.4,10.7,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Paulo Afonso,BA,Nordeste,3,592.9,,,,,,,,,,Não,3,561.0,4270.0,112870,5084,290024,Paulo Afonso,3.8,11.0,1. Até 150 mil hab.,Polo,11.6,-0.5,-26.5,Dentro do esperado,-
+Porto Seguro,BA,Nordeste,6,610.5,1.0,20.0,1500.0,562.6,Não informado,Instituto Trancoso,86.0,562.6,-47.8,Sim,8,725.0,7973.0,168326,8394,290009,Eunápolis - Porto Seguro,4.7,8.6,2. 150 a 300 mil,Polo,12.6,-3.9,-329.8,Abaixo do esperado,-
+Salvador,BA,Nordeste,83,599.1,33.0,1782.5,5001.0,620.2,"Pituba, Cabula",Sartre Escola Seb - Itaigara,1096.0,683.5,21.1,Sim,107,14569.0,261399.0,2417678,88225,290001,Salvador,10.8,16.5,4. Mais de 1 milhão,Polo,19.0,-2.5,-2195.6,Dentro do esperado,-
+Santo Antônio de Jesus,BA,Nordeste,6,582.7,,,,,,,,,,Não,7,717.0,4574.0,103055,4130,290003,Santo Antônio de Jesus,4.4,17.4,1. Até 150 mil hab.,Polo,12.2,5.1,211.1,Acima do esperado,-
+Simões Filho,BA,Nordeste,2,579.5,,,,,,,,,,Não,5,192.0,1756.0,114559,5372,290001,Salvador,1.5,3.6,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Teixeira de Freitas,BA,Nordeste,4,639.1,,,,,,,,,,Não,7,490.0,6383.0,145216,6720,290008,Teixeira de Freitas,4.4,7.3,1. Até 150 mil hab.,Polo,12.2,-4.9,-330.1,Abaixo do esperado,-
+Vitória da Conquista,BA,Nordeste,13,597.4,5.0,346.0,4000.0,641.0,"Candeias, Felícia",Colegio Nossa Senhora de Fatima - Sacramentinas,514.0,645.5,43.6,Sim,15,2176.0,21954.0,370879,16456,290011,Vitória da Conquista,5.9,13.2,3. 300 mil a 1 milhão,Polo,13.8,-0.6,-98.0,Dentro do esperado,-
+Araguari,MG,Sudeste,5,619.7,,,,,,,,,,Não,5,636.0,9562.0,117808,4493,310059,Uberlândia,8.1,14.2,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Araxá,MG,Sudeste,4,630.8,,,,,,,,,,Não,4,431.0,10517.0,111691,4311,310056,Araxá,9.4,10.0,1. Até 150 mil hab.,Polo,15.9,-5.9,-255.1,Abaixo do esperado,-
+Barbacena,MG,Sudeste,4,622.0,,,,,,,,,,Não,4,368.0,10365.0,125317,4671,310037,Barbacena,8.3,7.9,1. Até 150 mil hab.,Polo,14.7,-6.8,-318.7,Abaixo do esperado,-
+Belo Horizonte,MG,Sudeste,102,637.2,33.0,1955.0,10000.0,655.3,"Buritis, Cidade Jardim",Colegio Santo Agostinho,1070.0,716.7,18.1,Sim,123,19823.0,470644.0,2315560,76898,310001,Belo Horizonte,20.3,25.8,4. Mais de 1 milhão,Polo,27.5,-1.7,-1302.3,Dentro do esperado,-
+Betim,MG,Sudeste,5,630.1,1.0,26.0,6000.0,636.2,Jardim Da Cidade,Col Chromos Betim,121.0,636.2,6.1,Sim,6,775.0,22069.0,411846,16763,310001,Belo Horizonte,5.4,4.6,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Conselheiro Lafaiete,MG,Sudeste,4,648.0,,,,,,,,,,Não,5,333.0,10440.0,131621,4751,310038,Conselheiro Lafaiete,7.9,7.0,1. Até 150 mil hab.,Polo,14.3,-7.3,-348.4,Abaixo do esperado,-
+Contagem,MG,Sudeste,15,600.0,,,,,,,,,,Não,16,1802.0,51892.0,621863,23301,310001,Belo Horizonte,8.3,7.7,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Coronel Fabriciano,MG,Sudeste,3,622.2,,,,,,,,,,Não,3,376.0,5878.0,104736,4031,310024,Ipatinga,5.6,9.3,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Divinópolis,MG,Sudeste,8,650.8,,,,,,,,,,Não,9,1010.0,22457.0,231091,8245,310065,Divinópolis,9.7,12.2,2. 150 a 300 mil,Polo,16.2,-4.0,-328.5,Abaixo do esperado,-
+Governador Valadares,MG,Sudeste,6,624.3,1.0,52.5,6000.0,629.2,Esplanada,Colegio Franciscano Imaculada Conceicao,165.0,629.2,4.9,Sim,9,1093.0,21003.0,257171,10390,310020,Governador Valadares,8.2,10.5,2. 150 a 300 mil,Polo,14.6,-4.1,-423.0,Abaixo do esperado,-
+Ipatinga,MG,Sudeste,7,656.4,3.0,167.0,6000.0,703.1,"Cariru, Das Águas",Colegio Sao Francisco Xavier - Cariru,355.0,696.6,46.7,Sim,11,1408.0,22391.0,227731,8721,310024,Ipatinga,9.8,16.1,2. 150 a 300 mil,Polo,16.4,-0.2,-18.4,Dentro do esperado,-
+Itabira,MG,Sudeste,6,630.4,,,,,,,,,,Não,6,651.0,9286.0,113343,4133,310005,Itabira,8.2,15.8,1. Até 150 mil hab.,Polo,14.6,1.1,46.8,Dentro do esperado,-
+Ituiutaba,MG,Sudeste,3,601.4,,,,,,,,,,Não,4,335.0,8677.0,102217,3883,310060,Ituiutaba,8.5,8.6,1. Até 150 mil hab.,Polo,14.9,-6.3,-244.8,Abaixo do esperado,-
+Juiz de Fora,MG,Sudeste,20,627.8,1.0,15.0,8000.0,613.8,Salvaterra,Colegio Sarah Dawsey,46.0,613.8,-14.0,Sim,26,4170.0,70399.0,540756,18556,310027,Juiz de Fora,13.0,22.5,3. 300 mil a 1 milhão,Polo,19.7,2.7,508.7,Dentro do esperado,-
+Lavras,MG,Sudeste,8,638.8,,,,,,,,,,Não,9,1073.0,12019.0,104761,3809,310043,Lavras,11.5,28.2,1. Até 150 mil hab.,Polo,18.1,10.1,383.8,Acima do esperado,-
+Montes Claros,MG,Sudeste,13,629.8,,,,,,,,,,Não,16,2872.0,31387.0,414240,16946,310006,Montes Claros,7.6,16.9,3. 300 mil a 1 milhão,Polo,14.0,3.0,505.2,Dentro do esperado,-
+Muriaé,MG,Sudeste,3,630.9,,,,,,,,,,Não,4,464.0,7316.0,104108,3955,310031,Muriaé,7.0,11.7,1. Até 150 mil hab.,Polo,13.4,-1.7,-65.3,Dentro do esperado,-
+Nova Lima,MG,Sudeste,8,629.2,,,,,,,,,,Não,10,1234.0,32617.0,111697,3949,310001,Belo Horizonte,29.2,31.2,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Nova Serrana,MG,Sudeste,2,621.4,,,,,,,,,,Não,3,268.0,3572.0,105552,4767,310065,Divinópolis,3.4,5.6,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Passos,MG,Sudeste,5,649.1,,,,,,,,,,Não,5,492.0,9289.0,111939,4157,310041,Passos,8.3,11.8,1. Até 150 mil hab.,Polo,14.7,-2.9,-120.3,Dentro do esperado,-
+Patos de Minas,MG,Sudeste,5,639.5,2.0,89.5,5000.0,627.7,"Sobradinho, Alto Dos Caiçaras",Col Cidade de Patos de Minas de Ensino Fundamental e Medio,232.0,649.6,-11.8,Sim,8,1027.0,18247.0,159235,5836,310062,Patos de Minas,11.5,17.6,2. 150 a 300 mil,Polo,18.1,-0.5,-28.1,Dentro do esperado,-
+Poços de Caldas,MG,Sudeste,7,633.7,,,,,,,,,,Não,12,1301.0,17911.0,163742,5664,310051,Poços de Caldas,10.9,23.0,2. 150 a 300 mil,Polo,17.5,5.4,308.2,Acima do esperado,-
+Pouso Alegre,MG,Sudeste,9,631.8,,,,,,,,,,Não,9,1146.0,15551.0,152217,5543,310050,Pouso Alegre,10.2,20.7,2. 150 a 300 mil,Polo,16.8,3.9,216.9,Acima do esperado,-
+Ribeirão das Neves,MG,Sudeste,1,605.3,,,,,,,,,,Não,1,59.0,7713.0,329794,14208,310001,Belo Horizonte,2.3,0.4,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Sabará,MG,Sudeste,2,578.8,,,,,,,,,,Não,2,145.0,7527.0,129380,5089,310001,Belo Horizonte,5.8,2.8,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Santa Luzia,MG,Sudeste,4,582.8,,,,,,,,,,Não,4,461.0,9947.0,219132,8986,310001,Belo Horizonte,4.5,5.1,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Sete Lagoas,MG,Sudeste,12,641.4,,,,,,,,,,Não,14,1299.0,18259.0,227397,8769,310002,Sete Lagoas,8.0,14.8,2. 150 a 300 mil,Polo,14.4,0.4,32.2,Dentro do esperado,-
+Teófilo Otoni,MG,Sudeste,4,632.6,,,,,,,,,,Não,4,337.0,8370.0,137418,5767,310013,Teófilo Otoni,6.1,5.8,1. Até 150 mil hab.,Polo,12.4,-6.5,-377.7,Abaixo do esperado,-
+Ubá,MG,Sudeste,3,665.3,,,,,,,,,,Não,4,448.0,6288.0,103365,3943,310029,Ubá,6.1,11.4,1. Até 150 mil hab.,Polo,12.4,-1.0,-40.3,Dentro do esperado,-
+Uberaba,MG,Sudeste,11,638.3,3.0,66.0,3000.0,650.0,"Estados Unidos, Fabricio",Sistema Apoio de Ensino,149.0,690.3,11.8,Sim,14,1746.0,38009.0,337836,12764,310055,Uberaba,11.3,13.7,3. 300 mil a 1 milhão,Polo,17.9,-4.2,-533.4,Abaixo do esperado,Olhar primeiro
+Uberlândia,MG,Sudeste,20,623.7,8.0,632.5,7500.0,636.6,"Jardim Karaíba, Morada Da Colina",Colegio Gabarito,870.0,662.4,12.9,Sim,24,4504.0,89751.0,713224,27430,310059,Uberlândia,12.6,16.4,3. 300 mil a 1 milhão,Polo,19.3,-2.9,-781.9,Dentro do esperado,-
+Varginha,MG,Sudeste,6,631.5,2.0,37.0,5000.0,596.4,"Aeroporto, Vila Pinto",Colegio Alpha,89.0,628.2,-35.2,Sim,8,958.0,13931.0,136467,5096,310040,Varginha,10.2,18.8,1. Até 150 mil hab.,Polo,16.8,2.0,104.2,Dentro do esperado,-
+Vespasiano,MG,Sudeste,1,661.5,,,,,,,,,,Não,1,27.0,5044.0,129246,5428,310001,Belo Horizonte,3.9,0.5,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Cachoeiro de Itapemirim,ES,Sudeste,4,619.1,,,,,,,,,,Não,6,868.0,11383.0,185786,6903,320007,Cachoeiro de Itapemirim,6.1,12.6,2. 150 a 300 mil,Polo,12.4,0.1,9.9,Dentro do esperado,-
+Cariacica,ES,Sudeste,6,592.5,1.0,48.5,2600.0,626.9,Campo Grande,Colegio Lusiadas,209.0,626.9,34.4,Sim,7,769.0,12870.0,353491,14860,320001,Vitória,3.6,5.2,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Colatina,ES,Sudeste,3,614.2,,,,,,,,,,Não,3,389.0,8640.0,120033,4159,320005,Colatina,7.2,9.4,1. Até 150 mil hab.,Polo,13.6,-4.2,-175.2,Abaixo do esperado,-
+Guarapari,ES,Sudeste,1,618.5,,,,,,,,,,Não,3,213.0,11480.0,124656,4876,320001,Vitória,9.2,4.4,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Linhares,ES,Sudeste,3,609.2,,,,,,,,,,Não,3,406.0,10389.0,166786,7438,320004,Linhares,6.2,5.5,2. 150 a 300 mil,Polo,12.5,-7.1,-526.6,Abaixo do esperado,-
+São Mateus,ES,Sudeste,4,603.5,,,,,,,,,,Não,4,414.0,7194.0,123752,5489,320003,São Mateus,5.8,7.5,1. Até 150 mil hab.,Polo,12.1,-4.6,-250.1,Abaixo do esperado,-
+Serra,ES,Sudeste,7,615.5,1.0,16.0,3626.0,620.1,Colina De Laranjeiras,Ce Darwin Grande Vitoria,61.0,620.1,4.6,Sim,11,1086.0,37374.0,520653,21826,320001,Vitória,7.2,5.0,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Vila Velha,ES,Sudeste,21,604.1,6.0,119.0,6000.0,588.1,"Itapuã, Praia De Itaparica",Escola Batista Brasil de Vila Velha,106.0,590.9,-16.0,Sim,24,3610.0,72303.0,467722,17079,320001,Vitória,15.5,21.1,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Vitória,ES,Sudeste,17,658.2,7.0,393.0,11000.0,674.7,"Praia Do Canto, Mata Da Praia",Centro de Ensino Charles Darwin,655.0,683.5,16.6,Sim,18,3454.0,90196.0,322869,10872,320001,Vitória,27.9,31.8,3. 300 mil a 1 milhão,Polo,35.5,-3.8,-409.3,Abaixo do esperado,Olhar primeiro
+Angra dos Reis,RJ,Sudeste,11,590.9,4.0,78.0,5000.0,633.4,"Parque Das Palmeiras, São Bento",Colegio Jean Piaget,106.0,626.2,42.5,Sim,16,862.0,11161.0,167434,6978,330002,Angra dos Reis,6.7,12.4,2. 150 a 300 mil,Polo,13.0,-0.6,-45.2,Dentro do esperado,-
+Araruama,RJ,Sudeste,10,594.8,,,,,,,,,,Não,11,974.0,7467.0,129671,5122,330013,Cabo Frio,5.8,19.0,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Barra Mansa,RJ,Sudeste,3,620.3,,,,,,,,,,Não,3,586.0,9560.0,169894,6412,330004,Volta Redonda - Barra Mansa,5.6,9.1,2. 150 a 300 mil,Polo,11.9,-2.8,-177.1,Dentro do esperado,-
+Belford Roxo,RJ,Sudeste,4,551.2,,,,,,,,,,Não,11,790.0,7207.0,483087,19612,330001,Rio de Janeiro,1.5,4.0,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Cabo Frio,RJ,Sudeste,12,596.6,,,,,,,,,,Não,21,1691.0,19141.0,222161,9007,330013,Cabo Frio,8.6,18.8,2. 150 a 300 mil,Polo,15.1,3.7,333.9,Acima do esperado,-
+Campos dos Goytacazes,RJ,Sudeste,16,605.0,1.0,21.0,5000.0,629.4,Parque Tamandaré,Inst Dom Bosco,72.0,629.4,24.4,Sim,28,2779.0,32822.0,483540,19823,330010,Campos dos Goytacazes,6.8,14.0,3. 300 mil a 1 milhão,Polo,13.1,0.9,176.2,Dentro do esperado,-
+Duque de Caxias,RJ,Sudeste,21,562.0,,,,,,,,,,Não,42,4085.0,25105.0,808161,33487,330001,Rio de Janeiro,3.1,12.2,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Itaboraí,RJ,Sudeste,11,572.5,2.0,39.5,2000.0,596.1,"Outeiro Das Pedras, Venda Das Pedras",Centro Educacional Sanmartin Perez,82.0,640.4,23.5,Sim,16,1178.0,6678.0,224267,8905,330001,Rio de Janeiro,3.0,13.2,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Itaguaí,RJ,Sudeste,4,570.7,,,,,,,,,,Não,8,768.0,4924.0,116841,4900,330001,Rio de Janeiro,4.2,15.7,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Itaperuna,RJ,Sudeste,3,613.0,,,,,,,,,,Não,5,465.0,7253.0,101041,3622,330011,Itaperuna,7.2,12.8,1. Até 150 mil hab.,Polo,13.5,-0.7,-25.6,Dentro do esperado,-
+Macaé,RJ,Sudeste,10,613.9,3.0,80.5,5500.0,617.2,"Imbetiba, Cavaleiros",Colegio Bruno Ostmann,115.0,622.8,3.3,Sim,15,1319.0,29469.0,246391,9988,330014,Macaé - Rio das Ostras,12.0,13.2,2. 150 a 300 mil,Polo,18.6,-5.4,-539.8,Abaixo do esperado,Olhar primeiro
+Magé,RJ,Sudeste,5,603.3,,,,,,,,,,Não,9,713.0,5570.0,228127,9808,330001,Rio de Janeiro,2.4,7.3,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Maricá,RJ,Sudeste,9,583.5,1.0,40.0,2500.0,573.7,Barroco,Zerohum Educacao S A Colegio e Curso Zerohum,205.0,573.7,-9.8,Sim,11,1342.0,19296.0,197277,7494,330001,Rio de Janeiro,9.8,17.9,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Mesquita,RJ,Sudeste,2,561.8,,,,,,,,,,Não,6,482.0,5992.0,167127,6500,330001,Rio de Janeiro,3.6,7.4,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Nilópolis,RJ,Sudeste,8,558.9,,,,,,,,,,Não,13,1367.0,7256.0,146774,5250,330001,Rio de Janeiro,4.9,26.0,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Niterói,RJ,Sudeste,42,627.3,15.0,941.0,8200.0,649.5,"Icaraí, Icarai",Colegio La Salle Abel,463.0,694.2,22.2,Sim,58,6443.0,155543.0,481749,14713,330001,Rio de Janeiro,32.3,43.8,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Nova Friburgo,RJ,Sudeste,13,636.3,,,,,,,,,,Não,18,1444.0,17109.0,189939,6620,330008,Nova Friburgo,9.0,21.8,2. 150 a 300 mil,Polo,15.5,6.3,419.1,Acima do esperado,-
+Nova Iguaçu,RJ,Sudeste,32,562.3,15.0,627.0,3000.0,582.7,"Centro, Da Luz",Elite Iguacuano,674.0,561.6,20.4,Sim,48,5475.0,28925.0,785867,32202,330001,Rio de Janeiro,3.7,17.0,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Petrópolis,RJ,Sudeste,18,619.3,,,,,,,,,,Não,30,2717.0,27949.0,278881,9805,330007,Petrópolis,10.0,27.7,2. 150 a 300 mil,Polo,16.6,11.2,1093.6,Acima do esperado,-
+Queimados,RJ,Sudeste,5,563.3,,,,,,,,,,Não,7,826.0,2667.0,140523,6121,330001,Rio de Janeiro,1.9,13.5,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Resende,RJ,Sudeste,7,620.1,2.0,45.5,4500.0,559.0,"Morada Da Colina, Campos Elíseos",Col de Aplicacao de Resende,168.0,600.4,-61.1,Sim,7,948.0,14343.0,129612,4982,330005,Resende,11.1,19.0,1. Até 150 mil hab.,Polo,17.7,1.4,68.0,Dentro do esperado,-
+Rio das Ostras,RJ,Sudeste,14,606.0,,,,,,,,,,Não,20,2050.0,18615.0,156491,6390,330014,Macaé - Rio das Ostras,11.9,32.1,2. 150 a 300 mil,Polo,18.5,13.5,865.2,Acima do esperado,-
+Rio de Janeiro,RJ,Sudeste,337,600.4,155.0,6251.0,6000.0,627.5,"Barra Da Tijuca, Recreio Dos Bandeirantes",Colegio Santo Inacio,664.0,698.3,27.1,Sim,491,56957.0,1072891.0,6211223,218707,330001,Rio de Janeiro,17.3,26.0,4. Mais de 1 milhão,Polo,24.2,1.8,3945.2,Dentro do esperado,-
+São Gonçalo,RJ,Sudeste,28,588.2,9.0,335.0,3001.0,608.7,"Centro, Colubande",Sistema Elite de Ensino - Sao Goncalo,424.0,593.2,20.6,Sim,54,4048.0,35795.0,896744,30913,330001,Rio de Janeiro,4.0,13.1,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+São João de Meriti,RJ,Sudeste,10,564.2,,,,,,,,,,Não,16,2002.0,8656.0,440962,16958,330001,Rio de Janeiro,2.0,11.8,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+São Pedro da Aldeia,RJ,Sudeste,5,600.8,,,,,,,,,,Não,7,620.0,8156.0,104029,4205,330013,Cabo Frio,7.8,14.7,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Teresópolis,RJ,Sudeste,10,621.7,1.0,15.0,5000.0,596.8,Agrioes,Colegio Unico Ltda,72.0,596.8,-24.9,Sim,20,1294.0,17951.0,165123,6415,330007,Petrópolis,10.9,20.2,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Volta Redonda,RJ,Sudeste,11,632.6,4.0,154.0,5000.0,647.1,"Vila Santa Cecília, Jardim Amália",Colegio Interativo Ensino Medio,192.0,669.7,14.5,Sim,14,1469.0,27001.0,261563,9442,330004,Volta Redonda - Barra Mansa,10.3,15.6,2. 150 a 300 mil,Polo,16.9,-1.3,-124.4,Dentro do esperado,-
+Americana,SP,Sudeste,9,618.4,,,,,,,,,,Não,10,2418.0,34865.0,237240,8259,350038,Campinas,14.7,29.3,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Araçatuba,SP,Sudeste,12,603.3,,,,,,,,,,Não,14,1507.0,23414.0,200124,6769,350022,Araçatuba,11.7,22.3,2. 150 a 300 mil,Polo,18.3,3.9,266.0,Acima do esperado,-
+Araraquara,SP,Sudeste,12,613.6,,,,,,,,,,Não,15,1606.0,30295.0,242228,8511,350036,Araraquara,12.5,18.9,2. 150 a 300 mil,Polo,19.2,-0.3,-27.2,Dentro do esperado,-
+Araras,SP,Sudeste,5,632.2,,,,,,,,,,Não,6,595.0,13073.0,130866,4726,350045,Araras,10.0,12.6,1. Até 150 mil hab.,Polo,16.5,-3.9,-185.8,Abaixo do esperado,-
+Assis,SP,Sudeste,5,616.3,,,,,,,,,,Não,7,588.0,11107.0,101409,3633,350014,Assis,11.0,16.2,1. Até 150 mil hab.,Polo,17.5,-1.4,-49.3,Dentro do esperado,-
+Atibaia,SP,Sudeste,11,616.1,2.0,90.5,4250.0,639.7,"Itapetinga, Centro",Colegio Faat Ensino Fundamental e Medio,292.0,602.4,23.6,Sim,14,1547.0,23900.0,158647,5861,350041,Bragança Paulista,15.1,26.4,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Barretos,SP,Sudeste,6,611.9,,,,,,,,,,Não,7,856.0,11119.0,122485,4262,350032,Barretos,9.1,20.1,1. Até 150 mil hab.,Polo,15.6,4.5,193.0,Acima do esperado,-
+Barueri,SP,Sudeste,5,635.9,2.0,55.5,9500.0,621.0,"Centro, Aldeia Da Serra",Chalupe Colegio,123.0,626.1,-14.9,Sim,6,1473.0,49094.0,316473,13495,350001,São Paulo,15.5,10.9,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Bauru,SP,Sudeste,18,609.0,3.0,95.0,3000.0,585.5,Centro,Colegio Preve Bauru,291.0,585.0,-23.5,Sim,24,2592.0,51185.0,379146,13852,350009,Bauru,13.5,18.7,3. 300 mil a 1 milhão,Polo,20.2,-1.5,-211.8,Dentro do esperado,-
+Birigui,SP,Sudeste,5,612.8,,,,,,,,,,Não,6,467.0,8845.0,118979,4355,350023,Birigui - Penápolis,7.4,10.7,1. Até 150 mil hab.,Polo,13.8,-3.1,-134.6,Dentro do esperado,-
+Botucatu,SP,Sudeste,10,609.5,,,,,,,,,,Não,11,1322.0,17242.0,145155,5659,350011,Botucatu,11.9,23.4,1. Até 150 mil hab.,Polo,18.5,4.8,273.8,Acima do esperado,-
+Bragança Paulista,SP,Sudeste,11,617.4,2.0,114.0,3775.0,606.6,"Centro, Santa Luzia",Coracao de Jesus Instituto Educacional,208.0,626.8,-10.9,Sim,12,1368.0,18391.0,176811,6483,350041,Bragança Paulista,10.4,21.1,2. 150 a 300 mil,Polo,17.0,4.1,268.6,Acima do esperado,-
+Campinas,SP,Sudeste,44,613.0,2.0,113.0,4000.0,650.5,Barao Geraldo,Rio Branco Colegio,278.0,661.6,37.5,Sim,56,8679.0,224316.0,1139047,39531,350038,Campinas,19.7,22.0,4. Mais de 1 milhão,Polo,26.8,-4.8,-1916.2,Abaixo do esperado,Olhar primeiro
+Caraguatatuba,SP,Sudeste,7,586.7,,,,,,,,,,Não,10,752.0,11001.0,134873,5611,350051,Caraguatatuba - Ubatuba - São Sebastião,8.2,13.4,1. Até 150 mil hab.,Polo,14.6,-1.2,-66.1,Dentro do esperado,-
+Carapicuíba,SP,Sudeste,6,576.5,,,,,,,,,,Não,9,681.0,21021.0,386984,16776,350001,São Paulo,5.4,4.1,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Catanduva,SP,Sudeste,8,617.5,2.0,49.0,3985.0,602.8,Centro,Sao Mateus Colegio Eeiefm,93.0,618.6,-14.7,Sim,9,979.0,11146.0,115791,4102,350026,Catanduva,9.6,23.9,1. Até 150 mil hab.,Polo,16.1,7.7,317.1,Acima do esperado,-
+Cotia,SP,Sudeste,16,595.8,,,,,,,,,,Não,23,2896.0,39372.0,274413,11576,350001,São Paulo,14.3,25.0,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Cubatão,SP,Sudeste,2,555.5,,,,,,,,,,Não,4,237.0,4286.0,112476,4983,350002,Santos,3.8,4.8,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Diadema,SP,Sudeste,13,585.3,,,,,,,,,,Não,18,1547.0,24578.0,393237,15937,350001,São Paulo,6.3,9.7,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Embu das Artes,SP,Sudeste,5,564.9,2.0,29.5,1950.0,579.2,"Estancia De Embuarama, Tingidor",Primeira Opcao Escola,64.0,589.4,14.3,Sim,9,1005.0,8182.0,250691,11287,350001,São Paulo,3.3,8.9,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Ferraz de Vasconcelos,SP,Sudeste,4,546.5,,,,,,,,,,Não,4,351.0,5032.0,179198,7930,350001,São Paulo,2.8,4.4,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Franca,SP,Sudeste,13,626.5,,,,,,,,,,Não,18,1795.0,28310.0,352536,14001,350033,Franca,8.0,12.8,3. 300 mil a 1 milhão,Polo,14.4,-1.6,-227.7,Dentro do esperado,-
+Francisco Morato,SP,Sudeste,1,556.5,,,,,,,,,,Não,2,85.0,2082.0,165139,7726,350001,São Paulo,1.3,1.1,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Franco da Rocha,SP,Sudeste,2,594.6,,,,,,,,,,Não,5,274.0,7205.0,144849,6259,350001,São Paulo,5.0,4.4,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Guaratinguetá,SP,Sudeste,7,601.2,2.0,59.5,8000.0,608.2,Portal Das Colinas,Fenix Colegio,176.0,615.4,7.1,Sim,9,739.0,13441.0,118044,4326,350052,Guaratinguetá,11.4,17.1,1. Até 150 mil hab.,Polo,18.0,-0.9,-39.8,Dentro do esperado,-
+Guarujá,SP,Sudeste,9,569.5,1.0,15.0,5000.0,609.2,Pitangueiras,Nova Geracao Escola Internacional,57.0,609.2,39.7,Sim,11,1157.0,16347.0,287634,12210,350002,Santos,5.7,9.5,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Guarulhos,SP,Sudeste,56,581.0,13.0,530.0,4000.0,583.2,"Centro, Vila Galvao",Eniac Colegio de Informatica,597.0,594.2,2.2,Sim,75,8429.0,115728.0,1291771,54749,350001,São Paulo,9.0,15.4,4. Mais de 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Hortolândia,SP,Sudeste,6,582.9,,,,,,,,,,Não,10,1459.0,16501.0,236641,9593,350038,Campinas,7.0,15.2,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Indaiatuba,SP,Sudeste,11,615.1,,,,,,,,,,Não,12,2354.0,47864.0,255748,9475,350038,Campinas,18.7,24.8,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Itanhaém,SP,Sudeste,2,575.5,,,,,,,,,,Não,5,204.0,7018.0,112476,4818,350002,Santos,6.2,4.2,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Itapecerica da Serra,SP,Sudeste,6,578.1,,,,,,,,,,Não,8,825.0,5708.0,158522,7145,350001,São Paulo,3.6,11.5,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Itapetininga,SP,Sudeste,9,591.4,,,,,,,,,,Não,11,927.0,12923.0,157790,6670,350006,Itapetininga,8.2,13.9,2. 150 a 300 mil,Polo,14.6,-0.7,-47.9,Dentro do esperado,-
+Itapevi,SP,Sudeste,3,567.8,,,,,,,,,,Não,4,409.0,6200.0,232297,10499,350001,São Paulo,2.7,3.9,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Itaquaquecetuba,SP,Sudeste,5,582.7,,,,,,,,,,Não,8,610.0,7134.0,369275,17262,350001,São Paulo,1.9,3.5,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Itatiba,SP,Sudeste,6,613.3,,,,,,,,,,Não,9,762.0,17263.0,121590,4423,350039,Jundiaí,14.2,17.2,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Itu,SP,Sudeste,8,626.8,,,,,,,,,,Não,11,1010.0,16115.0,168240,6608,350003,Sorocaba,9.6,15.3,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Jacareí,SP,Sudeste,11,590.9,,,,,,,,,,Não,14,1645.0,24411.0,240275,9493,350049,São José dos Campos,10.2,17.3,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Jandira,SP,Sudeste,3,563.9,,,,,,,,,,Não,5,355.0,8721.0,118045,4780,350001,São Paulo,7.4,7.4,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Jaú,SP,Sudeste,9,640.0,,,,,,,,,,Não,9,986.0,10652.0,133497,5111,350010,Jaú,8.0,19.3,1. Até 150 mil hab.,Polo,14.4,4.9,250.4,Acima do esperado,-
+Jundiaí,SP,Sudeste,28,616.8,7.0,244.0,4500.0,606.0,"Centro, Anhangabau",Divina Providencia Escola,249.0,665.0,-10.8,Sim,36,4241.0,95003.0,443221,15510,350039,Jundiaí,21.4,27.3,3. 300 mil a 1 milhão,Polo,28.6,-1.3,-202.2,Dentro do esperado,-
+Limeira,SP,Sudeste,13,604.6,,,,,,,,,,Não,16,1540.0,30601.0,291869,10956,350042,Limeira,10.5,14.1,2. 150 a 300 mil,Polo,17.0,-3.0,-327.6,Dentro do esperado,-
+Marília,SP,Sudeste,11,611.4,,,,,,,,,,Não,12,2265.0,28345.0,237627,8394,350013,Marília,11.9,27.0,2. 150 a 300 mil,Polo,18.6,8.4,705.7,Acima do esperado,-
+Mauá,SP,Sudeste,8,573.1,,,,,,,,,,Não,11,1438.0,23679.0,418261,16786,350001,São Paulo,5.7,8.6,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Mogi das Cruzes,SP,Sudeste,22,605.0,,,,,,,,,,Não,29,2718.0,51380.0,451505,18876,350001,São Paulo,11.4,14.4,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Mogi Guaçu,SP,Sudeste,8,616.2,,,,,,,,,,Não,8,721.0,11482.0,153658,5576,350043,Mogi Guaçu,7.5,12.9,2. 150 a 300 mil,Polo,13.9,-0.9,-51.6,Dentro do esperado,-
+Osasco,SP,Sudeste,29,587.7,11.0,832.5,5001.0,589.4,"Centro, Vila Campesina",Assis Chateaubriand Emb Eefmepja,1278.0,605.5,1.7,Sim,38,6345.0,89432.0,728615,29006,350001,São Paulo,12.3,21.9,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Ourinhos,SP,Sudeste,6,633.1,,,,,,,,,,Não,7,529.0,9945.0,103970,4060,350015,Ourinhos,9.6,13.0,1. Até 150 mil hab.,Polo,16.1,-3.0,-123.6,Dentro do esperado,-
+Paulínia,SP,Sudeste,6,584.2,,,,,,,,,,Não,6,758.0,23506.0,110537,4532,350038,Campinas,21.3,16.7,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Pindamonhangaba,SP,Sudeste,5,636.9,,,,,,,,,,Não,8,667.0,12765.0,165428,6553,350050,Taubaté - Pindamonhangaba,7.7,10.2,2. 150 a 300 mil,Polo,14.1,-3.9,-257.9,Abaixo do esperado,-
+Piracicaba,SP,Sudeste,22,606.9,8.0,311.0,4250.0,615.7,"Centro, Cidade Alta",Salesiano Dom Bosco Colegio,272.0,606.9,8.7,Sim,26,3107.0,56906.0,423323,15746,350040,Piracicaba,13.4,19.7,3. 300 mil a 1 milhão,Polo,20.2,-0.4,-70.6,Dentro do esperado,-
+Poá,SP,Sudeste,1,549.8,,,,,,,,,,Não,3,136.0,5614.0,103765,4409,350001,São Paulo,5.4,3.1,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Praia Grande,SP,Sudeste,15,565.7,5.0,199.5,3700.0,560.9,"Guilhermina, Canto Do Forte",Fortec Escola Tecnica Unidade II,475.0,552.4,-4.8,Sim,17,1957.0,33400.0,349935,14303,350002,Santos,9.5,13.7,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Presidente Prudente,SP,Sudeste,11,626.7,,,,,,,,,,Não,16,1724.0,28316.0,225668,8134,350018,Presidente Prudente,12.5,21.2,2. 150 a 300 mil,Polo,19.2,2.0,159.6,Dentro do esperado,-
+Ribeirão Pires,SP,Sudeste,6,583.9,,,,,,,,,,Não,6,388.0,8973.0,115559,4278,350001,São Paulo,7.8,9.1,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Ribeirão Preto,SP,Sudeste,34,613.6,2.0,105.0,6000.0,623.4,"Loteamento Santa Luisa, Não informado",Pequeno Principe Colegio,311.0,669.8,9.9,Sim,46,6720.0,119484.0,698642,24580,350031,Ribeirão Preto,17.1,27.3,3. 300 mil a 1 milhão,Polo,24.1,3.3,806.7,Dentro do esperado,-
+Rio Claro,SP,Sudeste,7,602.4,2.0,71.5,4000.0,582.2,"Centro, Jardim Sao Paulo",Colegio Objetivo de Rio Claro,238.0,642.4,-20.3,Sim,9,1396.0,23163.0,201418,7288,350046,Rio Claro,11.5,19.2,2. 150 a 300 mil,Polo,18.1,1.0,75.2,Dentro do esperado,-
+Salto,SP,Sudeste,4,609.1,,,,,,,,,,Não,5,588.0,14218.0,134319,5104,350003,Sorocaba,10.6,11.5,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Santa Bárbara d'Oeste,SP,Sudeste,4,601.2,,,,,,,,,,Não,4,438.0,15125.0,183347,6554,350038,Campinas,8.2,6.7,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Santana de Parnaíba,SP,Sudeste,5,617.2,,,,,,,,,,Não,9,959.0,38509.0,154105,6760,350001,São Paulo,25.0,14.2,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Santo André,SP,Sudeste,32,592.5,5.0,196.0,6000.0,609.8,"Jardim, Jardim Bela Vista",Colegio Arbos,309.0,691.4,17.3,Sim,38,7050.0,137333.0,748919,26509,350001,São Paulo,18.3,26.6,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Santos,SP,Sudeste,30,591.9,5.0,141.5,6000.0,583.0,"Gonzaga, Pompeia",Liceu Santista,316.0,611.2,-8.9,Sim,39,4673.0,109054.0,418608,13823,350002,Santos,26.1,33.8,3. 300 mil a 1 milhão,Polo,33.5,0.3,37.0,Dentro do esperado,-
+São Bernardo do Campo,SP,Sudeste,31,605.3,14.0,658.0,5001.0,615.1,"Centro, Rudge Ramos",Universitario Abc Colegio,365.0,615.1,9.8,Sim,36,6462.0,127322.0,810729,30365,350001,São Paulo,15.7,21.3,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+São Caetano do Sul,SP,Sudeste,9,636.9,,,,,,,,,,Não,12,1847.0,57943.0,165655,5415,350001,São Paulo,35.0,34.1,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+São Carlos,SP,Sudeste,13,636.9,,,,,,,,,,Não,13,1824.0,36788.0,254857,9187,350037,São Carlos,14.4,19.9,2. 150 a 300 mil,Polo,21.2,-1.4,-126.5,Dentro do esperado,-
+São José do Rio Preto,SP,Sudeste,25,618.6,,,,,,,,,,Não,38,4339.0,72883.0,480393,16343,350025,São José do Rio Preto,15.2,26.5,3. 300 mil a 1 milhão,Polo,22.0,4.5,741.6,Acima do esperado,-
+São José dos Campos,SP,Sudeste,25,619.3,,,,,,,,,,Não,31,7226.0,111264.0,697054,26515,350049,São José dos Campos,16.0,27.3,3. 300 mil a 1 milhão,Polo,22.8,4.4,1167.5,Acima do esperado,-
+São Paulo,SP,Sudeste,501,592.7,212.0,10909.0,6000.0,614.2,"Vila Mariana, Santo Amaro",Bandeirantes Colegio Efm,1330.0,701.2,21.5,Sim,674,87412.0,2102750.0,11451999,424057,350001,São Paulo,18.4,20.6,4. Mais de 1 milhão,Polo,25.4,-4.8,-20261.8,Abaixo do esperado,Olhar primeiro
+São Vicente,SP,Sudeste,10,562.4,,,,,,,,,,Não,15,1448.0,20412.0,329911,13392,350002,Santos,6.2,10.8,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Sertãozinho,SP,Sudeste,5,597.3,,,,,,,,,,Não,5,549.0,11323.0,126887,5017,350031,Ribeirão Preto,8.9,10.9,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Sorocaba,SP,Sudeste,25,602.3,,,,,,,,,,Não,31,5620.0,102172.0,723682,27306,350003,Sorocaba,14.1,20.6,3. 300 mil a 1 milhão,Polo,20.9,-0.3,-85.9,Dentro do esperado,-
+Sumaré,SP,Sudeste,3,602.4,,,,,,,,,,Não,6,377.0,18917.0,279545,11256,350038,Campinas,6.8,3.3,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Suzano,SP,Sudeste,10,594.7,,,,,,,,,,Não,11,1183.0,17533.0,307429,13275,350001,São Paulo,5.7,8.9,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Taboão da Serra,SP,Sudeste,12,584.9,,,,,,,,,,Não,13,1883.0,25285.0,273542,11183,350001,São Paulo,9.2,16.8,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Tatuí,SP,Sudeste,5,592.9,,,,,,,,,,Não,8,706.0,8012.0,123942,5132,350008,Tatuí,6.5,13.8,1. Até 150 mil hab.,Polo,12.8,1.0,49.7,Dentro do esperado,-
+Taubaté,SP,Sudeste,14,628.7,6.0,330.5,4000.0,629.4,Centro,Elite Rede de Ensino,377.0,596.7,0.7,Sim,16,2490.0,37348.0,310739,11765,350050,Taubaté - Pindamonhangaba,12.0,21.2,3. 300 mil a 1 milhão,Polo,18.7,2.5,293.2,Dentro do esperado,-
+Valinhos,SP,Sudeste,5,658.1,,,,,,,,,,Não,6,1377.0,31153.0,126373,4404,350038,Campinas,24.7,31.3,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Votorantim,SP,Sudeste,4,569.7,,,,,,,,,,Não,4,343.0,11546.0,127923,5158,350003,Sorocaba,9.0,6.6,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Apucarana,PR,Sul,5,589.3,,,,,,,,,,Não,6,979.0,10747.0,130134,5045,410023,Apucarana,8.3,19.4,1. Até 150 mil hab.,Polo,11.4,8.0,402.5,Acima do esperado,-
+Arapongas,PR,Sul,3,615.8,,,,,,,,,,Não,4,393.0,9491.0,119138,4555,410021,Londrina,8.0,8.6,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Araucária,PR,Sul,5,594.6,,,,,,,,,,Não,6,862.0,9330.0,151666,6496,410001,Curitiba,6.2,13.3,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Cambé,PR,Sul,1,590.7,,,,,,,,,,Não,1,137.0,8661.0,107208,4235,410021,Londrina,8.1,3.2,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Campo Largo,PR,Sul,1,596.6,,,,,,,,,,Não,3,155.0,10413.0,136327,5359,410001,Curitiba,7.6,2.9,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Cascavel,PR,Sul,14,607.6,,,,,,,,,,Não,15,2053.0,47645.0,348051,13536,410006,Cascavel,13.7,15.2,3. 300 mil a 1 milhão,Polo,17.2,-2.0,-272.6,Dentro do esperado,-
+Colombo,PR,Sul,3,590.6,,,,,,,,,,Não,5,534.0,10894.0,232212,10074,410001,Curitiba,4.7,5.3,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Curitiba,PR,Sul,63,608.6,23.0,1543.0,6000.0,627.7,"São Francisco, Juvevê",Colegio Marista Paranaense Ei Ef Em,760.0,642.6,19.1,Sim,75,16583.0,431418.0,1773718,62296,410001,Curitiba,24.3,26.6,4. Mais de 1 milhão,Polo,28.4,-1.8,-1137.6,Dentro do esperado,-
+Fazenda Rio Grande,PR,Sul,2,553.8,,,,,,,,,,Não,2,294.0,6377.0,148873,7026,410001,Curitiba,4.3,4.2,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Foz do Iguaçu,PR,Sul,10,599.7,5.0,245.5,4000.0,603.3,"Centro, Monjolo",Colegio Bertoni - Ensino Fundamental e Medio,291.0,649.7,3.6,Sim,13,1593.0,31393.0,285415,12056,410007,Foz do Iguaçu,11.0,13.2,2. 150 a 300 mil,Polo,14.3,-1.1,-134.7,Dentro do esperado,-
+Guarapuava,PR,Sul,8,612.0,,,,,,,,,,Não,13,956.0,15800.0,182093,7801,410004,Guarapuava,8.7,12.3,2. 150 a 300 mil,Polo,11.9,0.4,30.0,Dentro do esperado,-
+Londrina,PR,Sul,21,610.0,3.0,126.5,6000.0,605.5,"Petropolis, Coliseu",Maxi C - Ei Ef,289.0,647.4,-4.5,Sim,25,4105.0,87446.0,555965,20903,410021,Londrina,15.7,19.6,3. 300 mil a 1 milhão,Polo,19.3,0.3,62.1,Dentro do esperado,-
+Maringá,PR,Sul,20,604.4,,,,,,,,,,Não,23,4734.0,77895.0,409657,13925,410014,Maringá,19.0,34.0,3. 300 mil a 1 milhão,Polo,22.8,11.2,1556.0,Acima do esperado,-
+Paranaguá,PR,Sul,9,558.3,3.0,80.5,3000.0,560.0,"Costeira, Alvorada",Colegio Adventista Paranagua - Educacao Infantil - Ensino Fundamental e Medio,160.0,567.0,1.7,Sim,10,849.0,10617.0,145829,6754,410002,Paranaguá,7.3,12.6,1. Até 150 mil hab.,Polo,10.4,2.2,147.2,Dentro do esperado,-
+Pinhais,PR,Sul,3,607.2,,,,,,,,,,Não,5,573.0,15018.0,127019,5296,410001,Curitiba,11.8,10.8,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Piraquara,PR,Sul,1,555.3,,,,,,,,,,Não,1,40.0,5146.0,118730,5554,410001,Curitiba,4.3,0.7,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Ponta Grossa,PR,Sul,13,597.0,6.0,458.0,4600.0,601.4,Centro,Colegio Sagrada Familia,406.0,595.6,4.3,Sim,17,3250.0,38350.0,358371,15698,410027,Ponta Grossa,10.7,20.7,3. 300 mil a 1 milhão,Polo,14.0,6.7,1049.9,Acima do esperado,-
+São José dos Pinhais,PR,Sul,6,598.6,,,,,,,,,,Não,9,1378.0,29793.0,329628,13641,410001,Curitiba,9.0,10.1,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Toledo,PR,Sul,5,629.6,2.0,84.5,5000.0,626.9,Jardim La Salle,Alfa Rede de Ensino,171.0,622.5,-2.6,Sim,7,838.0,19267.0,150470,5384,410008,Toledo,12.8,15.6,2. 150 a 300 mil,Polo,16.2,-0.7,-36.6,Dentro do esperado,-
+Umuarama,PR,Sul,6,591.1,,,,,,,,,,Não,7,922.0,12578.0,117095,4297,410016,Umuarama,10.7,21.5,1. Até 150 mil hab.,Polo,14.1,7.4,317.9,Acima do esperado,-
+Balneário Camboriú,SC,Sul,5,604.0,,,,,,,,,,Não,8,1696.0,40687.0,139155,4277,420020,Itajaí,29.2,39.7,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Blumenau,SC,Sul,7,617.0,1.0,59.0,12000.0,620.7,Jardim Blumenau,Esc Barao do Rio Branco,371.0,620.7,3.7,Sim,10,2123.0,64059.0,361261,12292,420019,Blumenau,17.7,17.3,3. 300 mil a 1 milhão,Polo,21.5,-4.2,-515.3,Abaixo do esperado,Olhar primeiro
+Brusque,SC,Sul,4,623.6,,,,,,,,,,Não,4,807.0,16860.0,141385,5207,420021,Brusque,11.9,15.5,1. Até 150 mil hab.,Polo,15.3,0.2,9.7,Dentro do esperado,-
+Camboriú,SC,Sul,2,588.1,,,,,,,,,,Não,4,299.0,8986.0,103074,4016,420020,Itajaí,8.7,7.4,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Chapecó,SC,Sul,8,626.5,,,,,,,,,,Não,8,1123.0,39186.0,254785,9178,420007,Chapecó,15.4,12.2,2. 150 a 300 mil,Polo,19.0,-6.7,-618.2,Abaixo do esperado,Olhar primeiro
+Criciúma,SC,Sul,10,610.0,,,,,,,,,,Não,11,2521.0,29137.0,214493,7773,420002,Criciúma,13.6,32.4,2. 150 a 300 mil,Polo,17.1,15.4,1194.2,Acima do esperado,-
+Florianópolis,SC,Sul,29,620.0,11.0,929.0,7500.0,631.7,Centro,Coc Colegio Osvaldo Carvalho Eireli Epp,738.0,670.3,11.7,Sim,36,5326.0,162750.0,537211,16623,420001,Florianópolis,30.3,32.0,3. 300 mil a 1 milhão,Polo,34.8,-2.7,-454.3,Dentro do esperado,-
+Itajaí,SC,Sul,9,606.1,,,,,,,,,,Não,14,2222.0,39648.0,264054,9971,420020,Itajaí,15.0,22.3,2. 150 a 300 mil,Polo,18.6,3.7,368.9,Acima do esperado,-
+Jaraguá do Sul,SC,Sul,5,626.7,,,,,,,,,,Não,5,879.0,26257.0,182660,6810,420016,Joinville,14.4,12.9,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Joinville,SC,Sul,12,611.8,4.0,453.5,6000.0,637.6,"Centro, Atiradores",Associacao Educacional Luterana Bom Jesus Ielusc,810.0,664.6,25.8,Sim,17,3512.0,87604.0,616317,23278,420016,Joinville,14.2,15.1,3. 300 mil a 1 milhão,Polo,17.7,-2.6,-616.8,Dentro do esperado,-
+Lages,SC,Sul,4,624.9,,,,,,,,,,Não,5,892.0,20203.0,164981,6696,420005,Lages,12.2,13.3,2. 150 a 300 mil,Polo,15.7,-2.3,-156.0,Dentro do esperado,-
+Palhoça,SC,Sul,8,610.9,,,,,,,,,,Não,9,1066.0,26269.0,222598,8695,420001,Florianópolis,11.8,12.3,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+São José,SC,Sul,10,597.5,3.0,121.5,4500.0,623.3,"Kobrasol, Campinas",Colegio Dom Jaime Camara,175.0,639.6,25.8,Sim,13,2044.0,44563.0,270299,9520,420001,Florianópolis,16.5,21.5,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Tubarão,SC,Sul,5,619.6,2.0,80.5,4000.0,609.0,Centro,Colegio Sao Jose,178.0,624.2,-10.6,Sim,5,1011.0,13781.0,110088,3769,420003,Tubarão,12.5,26.8,1. Até 150 mil hab.,Polo,15.9,10.9,410.2,Acima do esperado,-
+Alvorada,RS,Sul,3,574.7,,,,,,,,,,Não,3,282.0,7880.0,187315,8149,430001,Porto Alegre,4.2,3.5,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Bagé,RS,Sul,3,599.7,,,,,,,,,,Não,3,570.0,10547.0,117938,4698,430010,Bagé,8.9,12.1,1. Até 150 mil hab.,Polo,12.2,-0.0,-0.9,Dentro do esperado,-
+Bento Gonçalves,RS,Sul,4,630.5,,,,,,,,,,Não,6,508.0,20541.0,123151,3837,430037,Bento Gonçalves,16.7,13.2,1. Até 150 mil hab.,Polo,20.3,-7.1,-272.8,Abaixo do esperado,Olhar primeiro
+Cachoeirinha,RS,Sul,3,572.7,,,,,,,,,,Não,6,549.0,13106.0,136258,5095,430001,Porto Alegre,9.6,10.8,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Canoas,RS,Sul,10,600.4,2.0,69.5,6000.0,557.6,Marechal Rondon,Colegio Ulbra Cristo Redentor,175.0,589.2,-42.9,Sim,15,1994.0,48248.0,347657,13348,430001,Porto Alegre,13.9,14.9,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Caxias do Sul,RS,Sul,10,627.8,2.0,71.5,4650.0,650.5,"Sanvitto, Exposicao",Escola de Ensino Medio Caminho,166.0,619.1,22.7,Sim,14,2673.0,70693.0,463501,16650,430036,Caxias do Sul,15.3,16.1,3. 300 mil a 1 milhão,Polo,18.8,-2.8,-463.2,Dentro do esperado,-
+Erechim,RS,Sul,3,616.4,,,,,,,,,,Não,3,497.0,15335.0,105705,3598,430026,Erechim,14.5,13.8,1. Até 150 mil hab.,Polo,18.0,-4.2,-152.3,Abaixo do esperado,Olhar primeiro
+Gravataí,RS,Sul,5,610.7,,,,,,,,,,Não,7,1018.0,19124.0,265074,10294,430001,Porto Alegre,7.2,9.9,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Novo Hamburgo,RS,Sul,5,599.3,,,,,,,,,,Não,8,1074.0,29116.0,227646,8359,430002,Novo Hamburgo - São Leopoldo,12.8,12.8,2. 150 a 300 mil,Polo,16.2,-3.4,-282.5,Dentro do esperado,-
+Passo Fundo,RS,Sul,5,619.8,,,,,,,,,,Não,6,1041.0,31568.0,206215,7323,430025,Passo Fundo,15.3,14.2,2. 150 a 300 mil,Polo,18.9,-4.7,-342.8,Abaixo do esperado,Olhar primeiro
+Pelotas,RS,Sul,9,628.1,,,,,,,,,,Não,12,1258.0,37887.0,325685,11648,430009,Pelotas,11.6,10.8,3. 300 mil a 1 milhão,Polo,15.0,-4.2,-489.5,Abaixo do esperado,Olhar primeiro
+Porto Alegre,RS,Sul,60,615.2,24.0,1515.5,7000.0,647.6,"Boa Vista, Tristeza",Col Marista Nossa Senhora do Rosario,843.0,669.3,32.5,Sim,66,11551.0,343779.0,1332845,44088,430001,Porto Alegre,25.8,26.2,4. Mais de 1 milhão,Polo,30.0,-3.8,-1676.8,Abaixo do esperado,Olhar primeiro
+Rio Grande,RS,Sul,7,593.2,,,,,,,,,,Não,8,691.0,16724.0,191900,7395,430009,Pelotas,8.7,9.3,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Santa Cruz do Sul,RS,Sul,4,651.2,,,,,,,,,,Não,5,772.0,19362.0,133230,4407,430040,Santa Cruz do Sul,14.5,17.5,1. Até 150 mil hab.,Polo,18.1,-0.6,-24.5,Dentro do esperado,-
+Santa Maria,RS,Sul,12,623.1,1.0,50.5,4200.0,635.0,Nossa Senhora De Fatima,Colegio Nossa Senhora de Fatima,135.0,635.0,11.9,Sim,14,1710.0,46541.0,271735,9553,430011,Santa Maria,17.1,17.9,2. 150 a 300 mil,Polo,20.8,-2.9,-279.2,Dentro do esperado,-
+São Leopoldo,RS,Sul,3,640.9,,,,,,,,,,Não,7,747.0,23917.0,217409,8503,430002,Novo Hamburgo - São Leopoldo,11.0,8.8,2. 150 a 300 mil,Polo,14.3,-5.5,-471.7,Abaixo do esperado,Olhar primeiro
+Uruguaiana,RS,Sul,2,611.4,,,,,,,,,,Não,3,410.0,8734.0,117210,5219,430015,Uruguaiana,7.5,7.9,1. Até 150 mil hab.,Polo,10.6,-2.7,-141.8,Dentro do esperado,-
+Viamão,RS,Sul,6,573.9,2.0,75.0,2500.0,584.8,Centro,Colegio Adventista de Viamao - Educ Inf Ens Fund e Medio,202.0,590.6,10.8,Sim,8,1129.0,14550.0,224112,9393,430001,Porto Alegre,6.5,12.0,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Campo Grande,MS,Centro-Oeste,29,628.7,13.0,686.5,10000.0,630.6,"Jardim Dos Estados, Centro",Mabe Moderna Associacao Brasileira de Ensino Medio Ltda,508.0,595.7,1.9,Sim,36,5329.0,119332.0,898100,36483,500001,Campo Grande,13.3,14.6,3. 300 mil a 1 milhão,Polo,14.8,-0.2,-71.5,Dentro do esperado,-
+Dourados,MS,Centro-Oeste,6,650.3,,,,,,,,,,Não,7,1208.0,29434.0,243367,10182,500005,Dourados,12.1,11.9,2. 150 a 300 mil,Polo,13.5,-1.7,-170.6,Dentro do esperado,-
+Três Lagoas,MS,Centro-Oeste,5,612.7,2.0,34.5,2800.0,633.5,"Jardim Alvorada, Centro",Colegio Salesiano Dom Bosco de Tres Lagoas,73.0,617.0,20.8,Sim,7,454.0,11906.0,132152,5598,500002,Três Lagoas,9.0,8.1,1. Até 150 mil hab.,Polo,10.3,-2.2,-121.0,Dentro do esperado,-
+Cuiabá,MT,Centro-Oeste,24,600.5,10.0,645.0,4500.0,601.3,"Bau, Centro-Sul",Colegio Isaac Newton - Cin - Matutino e Vespertino,541.0,604.6,0.8,Sim,30,5020.0,109814.0,650877,26990,510001,Cuiabá,16.9,18.6,3. 300 mil a 1 milhão,Polo,18.6,-0.0,-0.2,Dentro do esperado,-
+Rondonópolis,MT,Centro-Oeste,7,611.2,,,,,,,,,,Não,10,860.0,24061.0,244911,10560,510016,Rondonópolis,9.8,8.1,2. 150 a 300 mil,Polo,11.1,-3.0,-315.8,Dentro do esperado,-
+Sinop,MT,Centro-Oeste,7,614.1,2.0,105.5,5500.0,611.7,"Jardim Maringá, Setor Residencial Norte",Colegio Alternativo - Sociedade Educacional Maringa Ltda,215.0,567.8,-2.4,Sim,10,1225.0,25949.0,196312,8360,510007,Sinop,13.2,14.7,2. 150 a 300 mil,Polo,14.7,-0.1,-6.4,Dentro do esperado,-
+Sorriso,MT,Centro-Oeste,5,605.0,,,,,,,,,,Não,5,659.0,14780.0,110635,4932,510008,Sorriso,13.4,13.4,1. Até 150 mil hab.,Polo,14.9,-1.5,-74.8,Dentro do esperado,-
+Tangará da Serra,MT,Centro-Oeste,4,626.6,,,,,,,,,,Não,4,377.0,10131.0,106434,4737,510002,Tangará da Serra,9.5,8.0,1. Até 150 mil hab.,Polo,10.8,-2.9,-135.1,Dentro do esperado,-
+Várzea Grande,MT,Centro-Oeste,5,588.8,2.0,70.0,3000.0,577.1,Centro-Norte,Colegio Adventista Varzea Grande,160.0,579.7,-11.7,Sim,8,583.0,17064.0,300078,13688,510001,Cuiabá,5.7,4.3,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Águas Lindas de Goiás,GO,Centro-Oeste,5,551.3,,,,,,,,,,Não,13,647.0,4388.0,225693,11754,520020,Águas Lindas de Goiás,1.9,5.5,2. 150 a 300 mil,Polo,2.8,2.7,319.5,Dentro do esperado,-
+Anápolis,GO,Centro-Oeste,10,628.1,,,,,,,,,,Não,14,1685.0,34582.0,398869,16571,520002,Anápolis,8.7,10.2,3. 300 mil a 1 milhão,Polo,9.9,0.3,42.6,Dentro do esperado,-
+Aparecida de Goiânia,GO,Centro-Oeste,14,581.7,,,,,,,,,,Não,16,1920.0,26455.0,527796,23074,520001,Goiânia,5.0,8.3,3. 300 mil a 1 milhão,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Catalão,GO,Centro-Oeste,7,612.8,,,,,,,,,,Não,8,816.0,12065.0,114427,4667,520004,Catalão,10.5,17.5,1. Até 150 mil hab.,Polo,11.9,5.6,260.8,Acima do esperado,-
+Formosa,GO,Centro-Oeste,4,567.2,,,,,,,,,,Não,5,466.0,9055.0,115901,5360,520020,Águas Lindas de Goiás,7.8,8.7,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Goiânia,GO,Centro-Oeste,64,617.2,,,,,,,,,,Não,79,12786.0,273565.0,1437366,54265,520001,Goiânia,19.0,23.6,4. Mais de 1 milhão,Polo,20.9,2.7,1450.5,Dentro do esperado,-
+Itumbiara,GO,Centro-Oeste,4,618.9,,,,,,,,,,Não,6,746.0,10053.0,107970,4211,520007,Itumbiara,9.3,17.7,1. Até 150 mil hab.,Polo,10.6,7.1,300.0,Acima do esperado,-
+Jataí,GO,Centro-Oeste,4,635.8,,,,,,,,,,Não,7,581.0,9705.0,105729,4527,520011,Jataí-Mineiros,9.2,12.8,1. Até 150 mil hab.,Polo,10.5,2.4,107.9,Dentro do esperado,-
+Luziânia,GO,Centro-Oeste,1,569.9,,,,,,,,,,Não,8,406.0,7690.0,209129,10620,520019,Luziânia,3.7,3.8,2. 150 a 300 mil,Polo,4.6,-0.8,-84.9,Dentro do esperado,-
+Planaltina,GO,Centro-Oeste,1,591.8,,,,,,,,,,Não,1,60.0,2037.0,105031,5257,520020,Águas Lindas de Goiás,1.9,1.1,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Rio Verde,GO,Centro-Oeste,6,624.7,,,,,,,,,,Não,10,901.0,21524.0,225696,9620,520010,Rio Verde,9.5,9.4,2. 150 a 300 mil,Polo,10.8,-1.5,-140.8,Dentro do esperado,-
+Senador Canedo,GO,Centro-Oeste,2,571.6,,,,,,,,,,Não,2,126.0,7211.0,155635,7312,520001,Goiânia,4.6,1.7,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Trindade,GO,Centro-Oeste,2,617.6,,,,,,,,,,Não,4,337.0,7076.0,142431,6411,520001,Goiânia,5.0,5.3,1. Até 150 mil hab.,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Valparaíso de Goiás,GO,Centro-Oeste,8,560.4,,,,,,,,,,Não,9,663.0,12928.0,198861,9099,520019,Luziânia,6.5,7.3,2. 150 a 300 mil,Vizinha de um polo,,,,Sem comparação (vizinha de polo),-
+Brasília,DF,Centro-Oeste,110,610.9,,,,,,,,,,Não,145,23129.0,669974.0,2817381,122342,530001,Distrito Federal,23.8,18.9,4. Mais de 1 milhão,Polo,25.9,-7.0,-8580.5,Abaixo do esperado,Olhar primeiro

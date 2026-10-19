@@ -1,0 +1,4 @@
+modelo,r2,rmse,mae,r2_validacao_aleatoria,modelo_exibicao,r2_txt,mae_txt
+Baseline (média),-0.004,45.404,36.903,-0.0,Chutar sempre a média,"−0,004","36,9 pts"
+Regressão linear,0.229,39.8,31.798,0.231,Regressão linear (usado),"0,229","31,8 pts"
+Random Forest,0.214,40.181,32.091,0.218,Random Forest,"0,214","32,1 pts"

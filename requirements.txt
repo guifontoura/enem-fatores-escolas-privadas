@@ -5,3 +5,5 @@ scikit-learn>=1.4
 statsmodels>=0.14
 jupyter>=1.0
 nbconvert>=7.0
+requests
+openpyxl

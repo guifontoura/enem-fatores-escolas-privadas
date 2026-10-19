@@ -1,4 +1,4 @@
 modelo,R2 (agrupada),RMSE (agrupada),MAE (agrupada),R2 (aleatória)
-Baseline (média),-0.003,45.308,36.838,-0.001
-Regressão linear,0.224,39.866,31.91,0.227
-Random Forest,0.205,40.339,32.211,0.224
+Baseline (média),-0.004,45.404,36.903,-0.0
+Regressão linear,0.229,39.8,31.798,0.231
+Random Forest,0.214,40.181,32.091,0.218

@@ -1,0 +1,5 @@
+fator,peso_relativo,efeito_pontos,ic_inferior,ic_superior,interpretacao,o_que_muda,pontos_txt,faixa_txt,fator_exibicao,grupo_fator
+Exame de seleção,0.14,15.8,12.6,19.0,pontos para escolas que selecionam alunos,Passa a selecionar alunos na entrada,"+15,8 pts","12,6 a 19,0",Seleciona alunos,Outros fatores
+Porte (alunos),0.25,11.6,10.2,13.0,pontos ao dobrar o número de alunos,Dobra o número de alunos (ex.: 100 → 200),"+11,6 pts","10,2 a 13,0",Porte da escola,Outros fatores
+Renda do responsável,0.27,5.7,5.1,6.3,pontos a cada R$ 1.000 a mais de renda do bairro,Bairro com R$ 1.000 a mais de renda,"+5,7 pts","5,1 a 6,3",Renda do bairro,Outros fatores
+Infraestrutura,0.12,4.1,3.2,5.0,pontos por nível de infraestrutura (0 a 5),Sobe 1 nível de infraestrutura (0 a 5),"+4,1 pts","3,2 a 5,0",Infraestrutura,Infraestrutura
